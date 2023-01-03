@@ -293,24 +293,23 @@
 	overflow: hidden;
 	transform: translateY(0);
 	animation: kisame 7s ease-in-out infinite;
-          }
+   }
 
 @keyframes kisame { 
   0% {
 	transform: translateY(0px);
 	box-shadow: 3px 3px 10px black;
-    }
+     }
 
   50% {
     transform: translateY(-4px);
     box-shadow: 3px 3px 10px black;
-       }
+      }
 
   100% {
 	transform: translateY(0px);
 	box-shadow: 3px 3px 10px black;
-         }
-
+      }
  }
 
 .konan img {
